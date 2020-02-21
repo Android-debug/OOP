@@ -1,2 +1,1 @@
-# OOP
-Examples of various oop 
+# OOP concepts
